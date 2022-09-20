@@ -110,7 +110,7 @@ function Menu() {
       </Container>
 
       <Typography variant='h4' sx={{display:'flex',justifyContent:'center', color:'orangered',marginTop:'65px',fontFamily:'Oleo Script Swash Caps,cursive'}}>A ready-to-eat slice of heaven.</Typography>
-      <Container sx={{py:10}}>
+      <Container>
       <Grid container>
         {/* xs Filter */}
         <Grid item xs={12} sx={{padding:3}}>
