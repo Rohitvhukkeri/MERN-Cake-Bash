@@ -15,7 +15,7 @@ function Home() {
     <Stack>
     <MaxContainer maxWidth='xl' style={{paddingLeft:"0px",paddingRight:"0px"}}> 
       <Box component="div"
-      sx={{backgroundImage: `linear-gradient(rgba(149,165,166,0.2),rgba(36,37,42,0.8)),url(${`https://res.cloudinary.com/foodiescom/image/upload/v1661338990/profile/banner_v1xfmx.jpg`}) `,
+      sx={{backgroundImage: `url(${`https://res.cloudinary.com/foodiescom/image/upload/v1661338990/profile/banner_v1xfmx.jpg`}) `,
       width: "100%",
       height: "80vh",
       backgroundPosition: "center",
