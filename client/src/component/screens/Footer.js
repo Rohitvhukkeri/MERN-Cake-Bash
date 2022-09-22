@@ -27,7 +27,7 @@ function Footer() {
      <Typography marked="left" marginTop='20px'variant='h6' >Social links  </Typography>
      <List>
        <ListItem >
-         <Link color='#3b5998' href="https://www.linkedin.com/in/rohit-hukkeri/"><FacebookIcon/></Link>
+         <Link color='#3b5998' href="https://m.facebook.com/rohit.hukkeri.94?eav=AfY0eYViLBY3_08D_rutuaC5-VylROCakEz62czKy2wWbW0vqoziWrEH6u2bC6S1oLs&paipv=0cs"><FacebookIcon/></Link>
           <Link color='#8a3ab9' margin=' 0px 5px' href='https://www.instagram.com/ro_hit_vh/?hl=en'><InstagramIcon/></Link>
           <Link color='#FF0000' margin=' 0px 5px' href='https://www.youtube.com/' ><YouTubeIcon/></Link>
           <Link color='#00acee'  margin=' 0px 5px' href='https://twitter.com/rohit_hukkeri'><TwitterIcon/></Link>
